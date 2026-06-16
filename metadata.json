@@ -1,0 +1,6 @@
+{
+  "name": "AR-AI Assistant",
+  "description": "Advanced Responsive Artificial Intelligence Assistant powered by OpenRouter API, featuring multi-model chat, voice controls, image vision, and modular AI tools.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
